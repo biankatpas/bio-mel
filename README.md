@@ -1,6 +1,6 @@
 ## Olá, eu sou a Mel!
 
-Quem saber mais sobre mim? Então leia as informações a seguir =)
+Quer saber mais sobre mim? Então leia as informações a seguir =)
 
 ### Dados
 
@@ -13,4 +13,7 @@ Quem saber mais sobre mim? Então leia as informações a seguir =)
 to-do
 
 ### Medicações
+to-do
+
+### Alimentação
 to-do
